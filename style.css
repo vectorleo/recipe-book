@@ -152,10 +152,10 @@ td{
 .attribution a { color: hsl(228, 45%, 44%); }
 
 
-@media screen and (max-width: 430px) {
+@media screen and (max-width: 450px) {
   .wrapper{
     max-width: 100%;
-    margin-inline: 0;
+    margin-inline:0;
   }
   .card{
     padding: 0;
@@ -163,7 +163,7 @@ td{
     margin-top: 0;
     margin-bottom: 20px;
   }
-  .content{padding:30px;}
+  .content{padding:25px;}
   .image-banner > img{
     border-radius: 0;
   }
